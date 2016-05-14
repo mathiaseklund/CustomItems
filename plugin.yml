@@ -1,0 +1,7 @@
+main: customitems.CustomItems
+name: CustomItems
+version: 0.1
+author: MathiasEklund
+commands:
+  customitem:
+  reloaditems:
